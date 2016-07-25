@@ -11,12 +11,12 @@ This template for fast scaffolding based on my experience.
 - Disabled turbolink
 - No Scaffold Test
 - With Mysql
+- Minitest(assert style)
 
 ## Todo
 
 - Remove sprocket
 - Enabled es6
-- Setup Minitest
 - Setup shoulda
 - Setup Debugging
 - Precommit setup
