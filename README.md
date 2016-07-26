@@ -12,6 +12,7 @@ This template for fast scaffolding based on my experience.
 - No Scaffold Test
 - With Mysql
 - Minitest(assert style)
+- Travis Configuration Scaffold
 
 ## Todo
 
@@ -20,5 +21,4 @@ This template for fast scaffolding based on my experience.
 - Setup shoulda
 - Setup Debugging
 - Precommit setup
-- Setup Travis Test Environment
 - Setup CodeClimate
