@@ -49,4 +49,5 @@ end
 
 group :test do
   gem "minitest-rails"
+  gem "shoulda"
 end

@@ -6,19 +6,17 @@ This template for fast scaffolding based on my experience.
 
 - Ruby 2.3.1
 - Rails 5.0.0.beta4
-- Rubocop installed
-- RailsBestPractices installed
+- Rubocop & RailsBestPractices
 - Disabled turbolink
-- No Scaffold Test
 - With Mysql
-- Minitest(assert style)
+- No Scaffold Test
+- Minitest(assert style) & Shoulda
 - Travis Configuration Scaffold
 
 ## Todo
 
 - Remove sprocket
 - Enabled es6
-- Setup shoulda
 - Setup Debugging
 - Precommit setup
 - Setup CodeClimate
