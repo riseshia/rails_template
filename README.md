@@ -7,6 +7,7 @@ This template for fast scaffolding based on my experience.
 - Ruby 2.3.1
 - Rails 5.0.0.beta4
 - Rubocop & RailsBestPractices
+- Enabled ES6
 - Disabled turbolink
 - With Mysql
 - No Scaffold Test
@@ -16,7 +17,6 @@ This template for fast scaffolding based on my experience.
 ## Todo
 
 - Remove sprocket
-- Enabled es6
 - Setup Debugging
 - Precommit setup
 - Setup CodeClimate
